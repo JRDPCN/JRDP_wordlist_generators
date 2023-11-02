@@ -1,9 +1,9 @@
 @echo off
-title numeric wordlist creator          v.1.0              by JRDPCN
-echo Wpisz trzy cyfry:
+title Numeric wordlist creator                  v.1.0                     by JRDPCN
+echo Enter three digits:
 set /p ans1="~~"
 pause
-echo Wpisz dwie cyfry:
+echo Enter two digits:
 set /p ans2="~~"
 color 0a
 :start
